@@ -1,6 +1,6 @@
 {
   "name": "fontdetect",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": " A simple library to detect if an internal font is present or an external font got loaded.",
   "main": "fontdetect.js",
   "scripts": {
