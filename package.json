@@ -1,0 +1,23 @@
+{
+  "name": "fontdetect",
+  "version": "3.0.1",
+  "description": " A simple library to detect if an internal font is present or an external font got loaded.",
+  "main": "fontdetect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virtualidentityag/FontDetect.git"
+  },
+  "keywords": [
+    "fontdetect",
+    "js"
+  ],
+  "author": "Jenifer Simonds",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/virtualidentityag/FontDetect/issues"
+  },
+  "homepage": "https://github.com/virtualidentityag/FontDetect#readme"
+}
